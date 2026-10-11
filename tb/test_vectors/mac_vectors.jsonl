@@ -1,0 +1,5 @@
+{"a":0,"b":0,"acc":0,"expected":0}
+{"a":7,"b":9,"acc":2,"expected":65}
+{"a":-7,"b":9,"acc":2,"expected":-61}
+{"a":-128,"b":-128,"acc":0,"expected":16384}
+{"a":127,"b":127,"acc":-16129,"expected":0}
