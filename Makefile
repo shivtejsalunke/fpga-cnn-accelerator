@@ -2,7 +2,7 @@
 vectors:
 	python3 scripts/generate_vectors.py
 sim:
-	./sim/run_sim.sh
+	bash sim/run_sim.sh
 python-check:
 	python3 -m unittest discover -s scripts -p 'test_*.py'
 clean:
